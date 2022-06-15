@@ -10,8 +10,8 @@
 
 ## 程式功能：
 
-### ●○ 基本功能
-     ⋅⋅⋅* 圖片資訊
+### 基本功能
+     • 圖片資訊
      • 色彩直方圖方分布顯示
      • 影像灰階轉換
      • 色彩空間轉換
@@ -20,7 +20,7 @@
      • 平移 (cv.warpAffine)
      • 旋轉 (cv.getRotationMatrix2D)
       
-### - 濾波(遮罩)
+### 濾波(遮罩)
      • 平滑化處理 (cv.blur)
      • 高斯模糊 (cv.GaussianBlur)
      • 中值濾波 (cv.medianBlur)
@@ -29,4 +29,4 @@
      • 高增幅 (cv.GaussianBlur)
      • 景深 (cv.bilateralFilter)
       
-### - 文字辨識
+### 文字辨識
