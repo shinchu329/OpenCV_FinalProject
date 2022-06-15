@@ -10,14 +10,14 @@
 ## 程式功能：
 
 ### - 基本功能
-* 圖片資訊
-* 色彩直方圖方分布顯示
-* 影像灰階轉換
-* 色彩空間轉換
-* 遮罩 (cv.calcHist)
-* 縮放 (cv.resize)
-* 平移 (cv.warpAffine)
-* 旋轉 (cv.getRotationMatrix2D)
+      * 圖片資訊
+      * 色彩直方圖方分布顯示
+      * 影像灰階轉換
+      * 色彩空間轉換
+      * 遮罩 (cv.calcHist)
+      * 縮放 (cv.resize)
+      * 平移 (cv.warpAffine)
+      * 旋轉 (cv.getRotationMatrix2D)
       
 ### - 濾波(遮罩)
 * 平滑化處理 (cv.blur)
