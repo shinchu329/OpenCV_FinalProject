@@ -8,7 +8,7 @@
 * 關鍵字：_影像辨識、影像處理、遮罩、鄰域處理、濾波、文字辨識_
 
 
-## 摘要與構想：
+## 實作方式：
 * 程式語言為**python**，使用**PyCharm**進行撰寫
 * 安裝的套件有**opencv、numpy**與**pytesseract**
 * UI by **tkinter**
