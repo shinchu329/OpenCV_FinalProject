@@ -17,7 +17,7 @@
       5. 遮罩 (cv.calcHist)
       6. 縮放 (cv.resize)
       7. 平移 (cv.warpAffine)
-      8. 旋轉(cv.getRotationMatrix2D)
+      8. 旋轉 (cv.getRotationMatrix2D)
 ### 2. 濾波(遮罩)
       1. 平滑化處理 (cv.blur)
       2. 高斯模糊 (cv.GaussianBlur)
